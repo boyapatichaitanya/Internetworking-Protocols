@@ -1,1 +1,22 @@
-# Internetworking-Protocols
+# Internetworking Protocols - Class Project
+
+## Project Name: Internet Relay Chat
+
+## Project Overview
+In this project we created a single server architecture-based application utilizing the python code. Implemented multi-user functionality, enabling users to create and manage groups, as well as broadcast messages within them. IRC client communicates with IRC server on Internet. First, user have to log on to the server using a client and then pick the channel on which user want to broadcast message. 
+
+## Team Members
+- Chaitanya Boyapati - boyapati@pdx.edu
+- Faiyazthulla Shaik - faiyaz@pdx.edu
+- Sandeep Singamaneni - ssingam2@pdx.edu
+
+### Advantages
+- Decentralized
+- Allows chatting and file sharing
+- Better privacy
+- Broadcast in the groups
+
+### Disadvantages
+- Bandwidth
+- Security
+- Cyberbullying
